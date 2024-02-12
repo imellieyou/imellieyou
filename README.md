@@ -28,6 +28,12 @@
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white"></div>
+ 
+![](./profile-3d-contrib/profile-green.svg)
 
+<div align="center">
+  <img align='left' src="http://mazassumnida.wtf/api/generate_badge?boj=imellieyou">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imellieyou&show_icons=true&theme=ambient_gradient)
+</div>
 
-![](./profile-3d-contrib/profile-green.svg)</div>
